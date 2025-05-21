@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://frontend-jobs-flame.vercel.app/api", // 🔁 Replace with your backend URL
+  baseURL: "https://frontend-jobs-flame.vercel.app/api",
 });
 
 export default API;
