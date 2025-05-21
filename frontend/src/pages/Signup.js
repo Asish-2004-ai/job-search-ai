@@ -59,7 +59,6 @@ const Signup = () => {
         </Button>
       </form>
 
-      {/* Add login prompt below the form */}
       <Typography variant="body2" align="center" style={{ marginTop: "1rem" }}>
         Already have an account?{" "}
         <Link to="/login" style={{ textDecoration: "none", color: "#1976d2" }}>
