@@ -55,6 +55,9 @@ const Dashboard = () => {
       <Button variant="contained" color="secondary" href="/recommendations">
         Find My Matches
       </Button>
+      <Button style={{marginLeft:'15px'}} variant="text" color="secondary" href="/jobs">
+        Jobs
+      </Button>
     </Container>
   );
 };
